@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "cover_img": "https://images.pexels.com/photos/261579/pexels-photo-261579.jpeg",
+    "title": "Exploring the Stars",
+    "author": "Jane Doe",
+    "author_img": "https://s3-alpha-sig.figma.com/img/2fc1/8b06/52fc4e1cd6ca45524a376c0074e685a7?Expires=1719187200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mhSY8GkePbPzG-CQGx4~L2rroS77yKK8BR6dMdQsvfYNgsRzrEaBWpUFk21ifhntZKpJ1u10w9BCuHF1-UqNz8K-C3lywrPIO1KXoGagxF0qFkTy5ECDvLgLCvDfvF7KAQ-Qu1f2d6KkjKdIw2JyYA67dzmuQzPb--8HMG6gBeXQyEvDGbgJN8jZy5uE41G-z6RhCCjRSnhudEi2-K1y0ScaoJndB037Mkr4LF5ACsLX6lQpg9nhhYuGw~r8Asf6bmzjRf5rcO7N2mOB5NCMJzxGAQOmPqZxHNyII515HJQ0lNih0t5k9Cts39xvjqy~C927JDRbXsvprd27-QeqIg__",
+    "posted_date": "2024-05-20",
+    "reading_time": "5",
+    "hashtags": ["#astronomy", "#space", "#science"],
+    "blog_content": "Discover the wonders of the universe as we delve into the fascinating world of astronomy. From distant galaxies to the stars above, explore the mysteries of space."
+  },
+  {
+    "id": 2,
+    "cover_img": "https://images.pexels.com/photos/545057/pexels-photo-545057.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "A Journey Through Time",
+    "author": "John Smith",
+    "author_img": "https://s3-alpha-sig.figma.com/img/6b0e/d4ba/126500fe0124ac23184733631311a153?Expires=1719187200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kRgZIjF4bi9vj9xm7jG9IKMpvO4tZE3E~8rogqBu0mfqD8oqU0csMbL4v6704jqABSFo0ZR1sk1t47~8VFsNKXOzmYPGcLMOh6mifaJFM2CJL8CjwU5t9KJfMRByd4xzJpk042MQ10vOP54EpYP0U8vHV2mBL9SlMj9F046AdihNeh7zLPPGlQhnBzsVImmnJInC-iJV66eJTo0rECV4p7OcmSThFWtR~AzpliSzEtY2FhLmTRdJYV9jCLbT04QnSxZu3TpLfet4O0dJf-HkrW2CgfnhOmlE1VHt6Jk8lzC2mqLS6LGi-wsoEBIaD5okcmqFG8CZJCOQHADrkV6fVA__",
+    "posted_date": "2024-05-22",
+    "reading_time": "8",
+    "hashtags": ["#history", "#travel", "#adventure"],
+    "blog_content": "Travel back in time and uncover the rich history of ancient civilizations. Join us on a journey through time as we explore historical landmarks and events."
+  },
+  {
+    "id": 3,
+    "cover_img": "https://images.pexels.com/photos/606541/pexels-photo-606541.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Cooking 101: Basics for Beginners",
+    "author": "Emily Johnson",
+    "author_img": "https://s3-alpha-sig.figma.com/img/5d97/603a/37d56efbd814dda56c284d562fa3afc2?Expires=1719187200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NM9-EwHItQXbGf3aQmpJ5--tHQdG3ilQqpFM7jSizzvwLNq2Ga6YHMbiRBDFMzMvnjMn6CJDmGx~hwpkW-SiOsSbYA3OYyNamWQDBnAoeWat4DI4N8EtYM5f-3CvUzs7QBGZnMYaUVPwfTnH-kuXAfel3KZ344i6IQNQa5LliPiRHuUAEcvUjCWNnE7EyqCILVjwkpk9z~Zz8XSSpH0~g-LKKlx2GK0e9AWv2uKxnScZUVs6pQVvVOEYdnGq7K8yDcV2Nt5UWYRhe1kIidud8AsiT9EhEDb4-HWgFyJTj~7kCzLji9HlNfyVWxeJMJ2tazIs9nq7Fn12WAwsr~HlZg__",
+    "posted_date": "2024-05-25",
+    "reading_time": "12",
+    "hashtags": ["#cooking", "#food", "#recipes"],
+    "blog_content": "Start your culinary journey with our beginner's guide to cooking. Learn the basic techniques and essential recipes that every aspiring chef should know."
+  },
+  {
+    "id": 4,
+    "cover_img": "https://images.pexels.com/photos/768474/pexels-photo-768474.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "The Art of Meditation",
+    "author": "Michael Brown",
+    "author_img": "https://s3-alpha-sig.figma.com/img/6b0e/d4ba/126500fe0124ac23184733631311a153?Expires=1719187200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kRgZIjF4bi9vj9xm7jG9IKMpvO4tZE3E~8rogqBu0mfqD8oqU0csMbL4v6704jqABSFo0ZR1sk1t47~8VFsNKXOzmYPGcLMOh6mifaJFM2CJL8CjwU5t9KJfMRByd4xzJpk042MQ10vOP54EpYP0U8vHV2mBL9SlMj9F046AdihNeh7zLPPGlQhnBzsVImmnJInC-iJV66eJTo0rECV4p7OcmSThFWtR~AzpliSzEtY2FhLmTRdJYV9jCLbT04QnSxZu3TpLfet4O0dJf-HkrW2CgfnhOmlE1VHt6Jk8lzC2mqLS6LGi-wsoEBIaD5okcmqFG8CZJCOQHADrkV6fVA__",
+    "posted_date": "2024-06-01",
+    "reading_time": "6",
+    "hashtags": ["#meditation", "#mindfulness", "#wellness"],
+    "blog_content": "Discover the benefits of meditation and mindfulness. Learn how to incorporate these practices into your daily routine for improved mental and emotional well-being."
+  }
+]
